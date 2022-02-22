@@ -33,3 +33,6 @@ a {
 .legende, #copyright {
     color: gray;
 }
+video {
+    position: relative;
+}

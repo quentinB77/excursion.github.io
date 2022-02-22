@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    }
+
+h1,h2 {
+    color: white;
+}
+
+.subtitle {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.legende {
+    font-size: 21px;
+}
+
+#copyright {
+    text-align: right;
+}
+
+.legende, #copyright {
+    color: gray;
+}
